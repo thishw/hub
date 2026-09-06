@@ -1,3 +1,5 @@
 # thishw.com = HW 허브 (project site — 다른 레포가 이 도메인에 붙는 것은 구조적으로 불가)
 User-agent: *
 Allow: /
+
+Sitemap: https://thishw.com/sitemap.xml
